@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1589669875 source:c:\users\ale\desktop\agus utn\programacion1\tp2empleadosclas\arrayemployees.c
+	"arrayEmployees.h"
+	"UTN.h"
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1589668785 c:\users\ale\desktop\agus utn\programacion1\tp2empleadosclas\arrayemployees.h
+
+1589313115 c:\users\ale\desktop\agus utn\programacion1\tp2empleadosclas\utn.h
+
+1589651510 source:c:\users\ale\desktop\agus utn\programacion1\tp2empleadosclas\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589668724 source:c:\users\ale\desktop\agus utn\programacion1\tp2empleadosclas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"arrayEmployees.h"
+
+1589668724 source:c:\users\ale\desktop\tp_laboratorio2\tp2empleadosclas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"arrayEmployees.h"
+
+1589313115 c:\users\ale\desktop\tp_laboratorio2\tp2empleadosclas\utn.h
+
+1589668785 c:\users\ale\desktop\tp_laboratorio2\tp2empleadosclas\arrayemployees.h
+
+1589651510 source:c:\users\ale\desktop\tp_laboratorio2\tp2empleadosclas\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
