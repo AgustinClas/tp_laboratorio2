@@ -3,7 +3,7 @@
 #include "UTN.h"
 #include "arrayEmployees.h"
 
-#define TAM 6
+#define TAM 1000
 #define TAMSEC 6
 
 int menuOpciones();
